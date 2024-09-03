@@ -8,3 +8,4 @@ shapely==2.0.6
 sodapy==2.2.0
 gunicorn
 dash-tools
+setuptools>=58.0.0
