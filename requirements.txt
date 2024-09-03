@@ -9,3 +9,4 @@ sodapy==2.2.0
 gunicorn
 dash-tools
 setuptools>=58.0.0
+docopt==0.6.2
